@@ -1,0 +1,416 @@
+[16-Mar-2024 05:04:36 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:04:36 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:08:39 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:08:39 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:08:40 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:08:40 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:08:40 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:08:40 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:08:41 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:08:41 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:06 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:06 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:06 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:06 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:07 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:07 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:17 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:17 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:18 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:18 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:18 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:18 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:18 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:18 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:18 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:18 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:52 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:52 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:53 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:53 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:58 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:09:58 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:05 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:05 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:05 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:05 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:10 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:10 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:22 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:22 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:29 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:29 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:30 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:30 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:31 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:31 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:39 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:39 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:45 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:10:45 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:11:18 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:11:18 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:12:02 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:12:02 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:12:18 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:12:18 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:23 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:23 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:24 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:24 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:24 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:24 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:24 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:24 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:28 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:14:28 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:15:05 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:15:05 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:18:22 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:18:22 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:19:06 America/Chicago] PHP Warning:  require(scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 05:19:06 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:87
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 87
+[16-Mar-2024 03:31:28 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kipp'@'localhost' (using password: YES) in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:7
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(7): mysqli->__construct('localhost', 'kipp', Object(SensitiveParameterValue), 'CageHockeyRink')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(87): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 7
+[16-Mar-2024 03:32:03 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kipp'@'localhost' (using password: YES) in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:7
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(7): mysqli->__construct('localhost', 'kipp', Object(SensitiveParameterValue), 'CageHockeyRink')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(87): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 7
+[16-Mar-2024 03:32:40 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kipp'@'localhost' (using password: YES) in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:7
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(7): mysqli->__construct('localhost', 'kipp', Object(SensitiveParameterValue), 'CageHockeyRink')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(87): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 7
+[16-Mar-2024 03:37:55 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kipp'@'localhost' (using password: YES) in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:7
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(7): mysqli->__construct('localhost', 'kipp', Object(SensitiveParameterValue), 'CageHockeyRink')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(87): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 7
+[16-Mar-2024 03:38:33 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kipp'@'localhost' (using password: YES) in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:7
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(7): mysqli->__construct('localhost', 'kipp', Object(SensitiveParameterValue), 'CageHockeyRink')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(91): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 7
+[16-Mar-2024 03:39:26 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kipp'@'localhost' (using password: YES) in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:7
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(7): mysqli->__construct('localhost', 'kipp', Object(SensitiveParameterValue), 'CageHockeyRink')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 7
+[16-Mar-2024 03:39:56 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kipp'@'localhost' (using password: YES) in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:7
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(7): mysqli->__construct('localhost', 'kipp', Object(SensitiveParameterValue), 'CageHockeyRink')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 7
+[16-Mar-2024 03:58:28 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kipp'@'localhost' (using password: YES) in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:7
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(7): mysqli->__construct('localhost', 'kipp', Object(SensitiveParameterValue), 'CageHockeyRink')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 7
+[16-Mar-2024 04:01:31 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'kippslab_tickets'@'localhost' to database 'kippslab_tickets' in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:7
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(7): mysqli->__construct('localhost', 'kippslab_ticket...', Object(SensitiveParameterValue), 'kippslab_ticket...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 7
+[16-Mar-2024 04:03:32 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:04:01 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:05:45 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:05:46 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:05:58 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:05:59 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 06:06:15 America/Chicago] PHP Warning:  require(/scripts/loadEvents.php): Failed to open stream: No such file or directory in /home4/kippslab/tickets.kippslab.com/index.php on line 88
+[16-Mar-2024 06:06:15 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/scripts/loadEvents.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/kippslab/tickets.kippslab.com/index.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/index.php on line 88
+[16-Mar-2024 04:06:32 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:07:02 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:07:02 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:07:19 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:08:02 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:08:02 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:10:45 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:10:57 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:12:03 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:12:07 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:13:17 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:14:13 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:18
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(18): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 18
+[16-Mar-2024 04:14:27 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:18
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(18): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 18
+[16-Mar-2024 04:17:44 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:18:44 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:20:29 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 04:21:41 America/Los_Angeles] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kippslab_tickets.events' doesn't exist in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php:14
+Stack trace:
+#0 /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php(14): mysqli->prepare('SELECT * FROM e...')
+#1 /home4/kippslab/tickets.kippslab.com/index.php(88): require('/home4/kippslab...')
+#2 {main}
+  thrown in /home4/kippslab/tickets.kippslab.com/scripts/loadEvents.php on line 14
+[16-Mar-2024 16:53:18 America/Chicago] PHP Warning:  Undefined array key "fname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 61
+[16-Mar-2024 16:53:18 America/Chicago] PHP Warning:  Undefined array key "lname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 63
+[16-Mar-2024 16:53:18 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 65
+[16-Mar-2024 16:54:32 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[16-Mar-2024 16:55:04 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[16-Mar-2024 16:55:12 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/editSkatersInfo.php on line 22
+[16-Mar-2024 16:55:15 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/editSkatersInfo.php on line 22
+[16-Mar-2024 16:55:17 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/editSkatersInfo.php on line 22
+[16-Mar-2024 16:55:18 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/editSkatersInfo.php on line 22
+[16-Mar-2024 16:55:20 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/editSkatersInfo.php on line 22
+[16-Mar-2024 16:55:21 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/editSkatersInfo.php on line 22
+[16-Mar-2024 16:55:23 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/editSkatersInfo.php on line 22
+[16-Mar-2024 16:55:24 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/editSkatersInfo.php on line 22
+[16-Mar-2024 16:55:25 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/editSkatersInfo.php on line 22
+[16-Mar-2024 17:33:48 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 01:35:09 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 01:36:28 America/Chicago] PHP Warning:  Undefined array key "fname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 61
+[01-Apr-2024 01:36:28 America/Chicago] PHP Warning:  Undefined array key "lname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 63
+[01-Apr-2024 01:36:28 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 65
+[01-Apr-2024 02:32:37 America/Chicago] PHP Warning:  Undefined array key "fname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 61
+[01-Apr-2024 02:32:37 America/Chicago] PHP Warning:  Undefined array key "lname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 63
+[01-Apr-2024 02:32:37 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 65
+[01-Apr-2024 02:41:27 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 02:41:54 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 02:41:57 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 02:43:34 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 02:43:38 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 02:43:42 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 02:47:38 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 02:57:59 America/Chicago] PHP Warning:  Uninitialized string offset 0 in /home4/kippslab/tickets.kippslab.com/scripts/getEventSkaterList.php on line 21
+[01-Apr-2024 03:02:07 America/Chicago] PHP Warning:  Undefined array key "fname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 61
+[01-Apr-2024 03:02:07 America/Chicago] PHP Warning:  Undefined array key "lname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 63
+[01-Apr-2024 03:02:07 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 65
+[01-Apr-2024 03:24:20 America/Chicago] PHP Warning:  Undefined array key "fname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 61
+[01-Apr-2024 03:24:20 America/Chicago] PHP Warning:  Undefined array key "lname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 63
+[01-Apr-2024 03:24:20 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 65
+[01-Apr-2024 03:38:36 America/Chicago] PHP Warning:  Undefined array key "fname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 61
+[01-Apr-2024 03:38:36 America/Chicago] PHP Warning:  Undefined array key "lname" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 63
+[01-Apr-2024 03:38:36 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/kippslab/tickets.kippslab.com/confirm.php on line 65

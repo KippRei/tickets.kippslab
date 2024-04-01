@@ -1,0 +1,11 @@
+Waiver:
+
+        HOLD HARMLESS AND ASSUMPTION OF THE RISK AGREEMENT FOR PARTICIPATION IN THE CAGE ROLLER HOCKEY OPEN SKATE EVENT<br/>
+
+        For and in consideration of participation in THE CAGE Roller Hockey Rink's Open Skate Event (hereafter "Event"), I hereby voluntarily release, discharge, waive and relinquish any and all actions or causes of action for any personal injury, property damage or wrongful death against Community Sports Foundation and the City of Los Angeles and/or any of its officers, agents, servants or employees, occurring to me as a result of my participation in the Event or any activities incidental thereto wherever or however the same may occur and for whatever period said activities may continue.
+
+        TO THE MAXIMUM EXTENT ALLOWED BY LAW, IT IS MY INTENTION BY SIGNING THIS INSTRUMENT, TO EXEMPT AND RELIEVE THE COMMUNITY SPORTS FOUNDATION AND ITS OFFICERS, AGENTS, SERVANTS OR EMPLOYEES and THE CITY OF LOS ANGELES, ITS OFFICERS, AGENTS, SERVANTS OR EMPLOYEES FROM LIABILITY FOR PERSONAL INJURY, PROPERTY DAMAGE OR WRONGFUL DEATH CAUSED BY NEGLIGENCE INCLUDING, BUT NOT LIMITED TO, THE EXISTENCE OF ANY FIELD CONDITION(S) ALLEGED TO BE DANGEROUS AS A MATTER OF LAW. I am fully aware of the risks and hazards inherent in participation in the Event and I certify that I am in good physical health and able to participate in sports activities. I realize that NO MEDICAL INSURANCE IS PROVIDED BY THE COMMUNITY SPORTS FOUNDATION OR THE CITY OF LOS ANGELES FOR ANY INJURIES THAT MAY OCCUR TO ME DURING PARTICIPATION IN THE EVENT. Nevertheless, I hereby elect voluntarily to participate in the Event and assume all risk of loss, damage, or injury that may be sustained by me during my participation in the Event or any activities incidental thereto.
+
+        I understand that this Hold Harmless and Assumption of the Risk Agreement shall apply not only to me but also to my spouse, children, heirs, executors, administrators, next of kin, assigns and successors.
+
+        <br/><br/>Date: <?php echo date("M d, Y"); ?>
